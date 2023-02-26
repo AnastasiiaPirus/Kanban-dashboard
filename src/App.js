@@ -7,7 +7,7 @@ function App() {
     <>
     <Router>
       <Routes>
-        <Route path="/Kanban-dashboard" element={<Board />} exact />         
+        <Route path="/kanban-dashboard" element={<Board />} exact />         
       </Routes>
     </Router>
     </>
